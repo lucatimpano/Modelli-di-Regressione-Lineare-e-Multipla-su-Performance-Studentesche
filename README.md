@@ -3,11 +3,10 @@ Questa repository è dedicata all'approfondimento e all'applicazione pratica dei
 
 Contenuto della repository:
 
-Dataset: Dati reali che rappresentano diverse variabili con l'obiettivo di predire una variabile target, fornendo un contesto applicativo concreto.
-Regressione Lineare Semplice: Implementazione di un modello per analizzare la relazione tra una variabile indipendente con alta correlazione e la variabile target.
-Regressione Lineare Multipla: Implementazione di un modello che considera l'effetto combinato di più variabili indipendenti sulla variabile target.
-Calcolo degli Errori: Misurazione delle prestazioni dei modelli tramite il calcolo del Mean Squared Error (MSE) per confrontare l'accuratezza dei modelli.
-Correlazione tra Variabili: Analisi delle correlazioni tra le variabili indipendenti e il target per scegliere le migliori features da includere nei modelli.
-Grafici e Visualizzazioni: Visualizzazione grafica dei risultati dei modelli di regressione per confrontare i valori predetti con i valori reali.
-Strumenti Utilizzati: Utilizzo di strumenti come Excel e Python per implementare i modelli, con esempi di codice e script per l'analisi dei dati.
-Questa repository offre una guida pratica per chiunque voglia comprendere come i modelli di regressione funzionano, come si implementano e come si valutano in un contesto reale.
+*Dataset*: Dati reali che rappresentano diverse variabili con l'obiettivo di predire una variabile target, fornendo un contesto applicativo concreto.
+*Regressione Lineare Semplice*: Implementazione di un modello per analizzare la relazione tra una variabile indipendente con alta correlazione e la variabile target.
+*Regressione Lineare Multipla*: Implementazione di un modello che considera l'effetto combinato di più variabili indipendenti sulla variabile target.
+*Calcolo degli Errori*: Misurazione delle prestazioni dei modelli tramite il calcolo del Mean Squared Error (MSE) per confrontare l'accuratezza dei modelli.
+*Correlazione tra Variabili*: Analisi delle correlazioni tra le variabili indipendenti e il target per scegliere le migliori features da includere nei modelli.
+*Grafici e Visualizzazioni*: Visualizzazione grafica dei risultati dei modelli di regressione per confrontare i valori predetti con i valori reali.
+*Strumenti Utilizzati*: Utilizzo di strumenti come Excel e Python per implementare i modelli, con esempi di codice e script per l'analisi dei dati
